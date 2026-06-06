@@ -1,0 +1,6 @@
+{
+  "name": "Gry Karciane Offline",
+  "description": "Gry karciane Remik, Makao i 1000 z trybem offline, grą z botami, gry lokalnej oraz synchronizacji multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
